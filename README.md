@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Xlqmu.
-- 👀 I’m interested in the computer version domain.
-- 🌱 I’m currently learning cv.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Xlqmu,a ordinary rmer.
+- 👀 I’m interested in the computer vision.
+- 🌱 I’m currently learning cv,yolo and slam.
 - 📫 How to reach me ...niezhenghua2004@gmail.com
 -
 
