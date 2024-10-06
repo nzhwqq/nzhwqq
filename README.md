@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Xlqmu,a ordinary rmer.
-- 👀 I’m interested in the computer vision.
+Hello,everyone!
+- 👋 I’m Xlqmu,a student of vehicle engineering at Jiangsu University,a ordinary rmer.
+- 👀 I’m interested in the computer vision,slam and Automatic Control.
 - 🌱 I’m currently learning cv,yolo and slam.
 - 📫 How to reach me ...niezhenghua2004@gmail.com
 -
