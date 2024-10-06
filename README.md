@@ -4,8 +4,8 @@ Hello,everyone!
 - 🌱 I’m currently learning cv,yolo and slam.
 - 📫 How to reach me ...niezhenghua2004@gmail.com
 
-![Xlqmu's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlqmu&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlqmu&layout=compact)](https://github.com/xlqmu/github-readme-stats)
+![Xlqmu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xlqmu&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xlqmu&layout=compact)](https://github.com/Xlqmu/github-readme-stats)
 
 <!---
 nzhwqq/nzhwqq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
