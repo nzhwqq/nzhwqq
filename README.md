@@ -5,7 +5,8 @@ Hello,everyone!
 - 📫 How to reach me ...niezhenghua2004@gmail.com
 -
 
-[![xlqmu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nzhwqq&show icons=true&theme=radical)](https://github.com/nzhwqq/github-readme-stats)
+[![Xlqmu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nzhwqq&show icons=true&theme=radical)](https://github.com/nzhwqq/github-readme-stats)
+![Xlqmu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nzhwqq&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzhwqq&layout=compact)](https://github.com/nzhwqq/github-readme-stats)
 
 <!---
