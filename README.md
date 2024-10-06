@@ -5,7 +5,8 @@ Hello,everyone!
 - 📫 How to reach me ...niezhenghua2004@gmail.com
 -
 
-[![xlqmu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nzhwqq&show icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![xlqmu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nzhwqq&show icons=true&theme=radical)](https://github.com/nzhwqq/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzhwqq&layout=compact)](https://github.com/nzhwqq/github-readme-stats)
 
 <!---
 nzhwqq/nzhwqq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
