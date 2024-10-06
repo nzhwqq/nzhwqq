@@ -4,8 +4,7 @@ Hello,everyone!
 - 🌱 I’m currently learning cv,yolo and slam.
 - 📫 How to reach me ...niezhenghua2004@gmail.com
 
-![Xlqmu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nzhwqq&show_icons=true&theme=radical)
-&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
+![Xlqmu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nzhwqq&show_icons=true&theme=radical&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzhwqq&layout=compact)](https://github.com/nzhwqq/github-readme-stats)
 
 <!---
