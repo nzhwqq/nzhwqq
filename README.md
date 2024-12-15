@@ -16,5 +16,5 @@
 </p>
 
 <br />
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Xlqmu)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Xlqmu&theme=high-contrast&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/Xlqmu/github-readme-activity-graph)
 
