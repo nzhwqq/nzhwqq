@@ -16,13 +16,5 @@
 </p>
 
 <br />
-<!--START_SECTION:waka-->
-
-```txt
-From: 14 December 2024 - To: 14 December 2024
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Xlqmu)
 
